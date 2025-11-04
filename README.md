@@ -45,7 +45,5 @@ It integrates multiple sensors to detect falls, alcohol presence, and environmen
 ---
 
 ## 📷 Demo / Block Diagram
-*(Upload your system diagram or prototype photo here later)*  
-Example:  
-```markdown
-![System Diagram](media/system-diagram.png)
+![System Design](system%20design.jpg)
+
